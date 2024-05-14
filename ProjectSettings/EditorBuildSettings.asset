@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/LoginScene.unity
-    guid: 951380fefb31e354aa645f78e2637038
+    guid: b8e28c97f0ce512498303c7076064f6f
   - enabled: 1
     path: Assets/Scenes/LoadingScene.unity
     guid: 7961a13995e551b459e0ec069aefdeaf
